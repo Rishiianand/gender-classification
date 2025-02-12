@@ -97,7 +97,7 @@ python train.py
 ```
 
 ## 🎯 Model Performance
-- 📊 **Achieved Accuracy:** ~85%
+- 📊 **Achieved Accuracy:** ~97%
 - 📉 **Loss:** ~0.45
 - ✔ **Balanced dataset (~29K male, ~29K female images)**
 - 📌 Evaluated using **precision, recall, and F1-score**
